@@ -1,3 +1,5 @@
+-- Here I'm analysing the value of non-member and member customers, best selling products in a specific time period and customer satisfaction.
+
 -- How many customers are members per city and what's the difference in spend between each customer type?
 SELECT customer_type, COUNT(customer_type), city, SUM(total)
 FROM supermarket_sales
