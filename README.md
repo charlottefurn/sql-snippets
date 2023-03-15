@@ -2,3 +2,4 @@
 
 - 🧽 Data Cleaning
 - 📈 Data Analysis
+- 🏃🏻‍♀️ Optimization
